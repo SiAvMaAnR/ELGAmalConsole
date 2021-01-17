@@ -8,8 +8,8 @@ namespace ELGAmalConsole
 {
     class Program
     {
-        static public string text = "ORT";
-        static public int p = 54403;
+        static public string text = "ART";
+        static public int p = 45989;
         static public long[]NumberEncrypt;
 
         static void Main(string[] args)

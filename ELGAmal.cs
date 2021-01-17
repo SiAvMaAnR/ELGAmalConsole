@@ -86,7 +86,7 @@ namespace ELGAmalConsole
 				{
 					if (Text[i] == Alphabet[j])
 					{
-						numericConversion[i] = j; break;
+						numericConversion[i] = j + 1; break;
 					}
 				}
 			}
